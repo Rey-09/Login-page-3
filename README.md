@@ -19,5 +19,4 @@ A modern **Login & Signup UI with smooth sliding animations** built using HTML, 
 - **JavaScript (Vanilla JS)**
 - **Font Awesome 7**
 
-## 📂 Folder Structure
 
