@@ -19,4 +19,8 @@ A modern **Login & Signup UI with smooth sliding animations** built using HTML, 
 - **JavaScript (Vanilla JS)**
 - **Font Awesome 7**
 
+## Output:
+- <img width="1897" height="809" alt="image" src="https://github.com/user-attachments/assets/88567ffd-6702-4ddd-bf65-e07b59546eb1" />
+
+
 
